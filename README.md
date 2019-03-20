@@ -1,7 +1,7 @@
 shell-script
 ============
-在制作镜像环境的过程中，为了方便后续部署，将部署操作脚本化<br>
-        其中包括了`mysql`,`redis`,`nodejs`,`yarn`,`python3`,`sqlmap`,`supervisor`,`doccker-ce`<br>
+>>在制作镜像环境的过程中，为了方便后续部署，将部署操作脚本化<br>
+>>其中包括了`mysql`,`redis`,`nodejs`,`yarn`,`python3`,`sqlmap`,`supervisor`,`doccker-ce`<br>
 
 base-start.sh
 -------------
